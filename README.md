@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome books: a complete website with navigation
+# Awesome books: with ES6
 
-> In this project we creaed a booklist web page where you can add or remove a book from the page. Also, the data is saved on the local storage.Each section appears when the user clicks on the navigation link.The sections appears one at a time.
+> In this project we creaed a booklist web page where you can add or remove a book from the page. Also, the data is saved on the local storage. Each section appears when the user clicks on the navigation link. The sections appears one at a time. All of this implementing ES6 syntax.
 
 ## Built With
 
@@ -10,14 +10,16 @@
 - HTML
 - CSS
 - JavaScript classes, objects and arrays
+- ES6
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 ### Install
+
 -Set up Github Actions
--Set up linter > Lighthouse , Webhint ,Stylelint ,
+-Set up linter > Lighthouse, Webhint, Stylelint.
 -Added Eslint
 
 ### Run tests
@@ -33,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 - Javasript arrays, objects and classes.
 
 ### Setup
--To clone the repository run `git@github.com:danigalindo10/awesome-books.git` in your terminal
+To clone the repository run `git@github.com:danigalindo10/awesome-books-es6.git` in your terminal
 
 ### Install
 -Set up Github Actions
@@ -59,7 +61,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/danigalindo10/awesome-books/issues)
+Feel free to check the [issues page](https:github.com/danigalindo10/awesome-books-es6/issues)
 
 ## 📝 License
 
