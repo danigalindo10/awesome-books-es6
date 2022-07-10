@@ -18,7 +18,6 @@ class awesomeBooks {
         <p class="infor">${book.author}</p>
         <button class="delete">Remove</button>
       </div>
-      
       `;
 
     list.appendChild(listBook);
