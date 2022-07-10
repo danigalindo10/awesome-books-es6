@@ -1,72 +1,65 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome books: a complete website with navigation
 
-> Description the project.
-
+> In this project we creaed a booklist web page where you can add or remove a book from the page. Also, the data is saved on the local storage.Each section appears when the user clicks on the navigation link.The sections appears one at a time.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- VSCode
+- HTML
+- CSS
+- JavaScript classes, objects and arrays
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these simple example steps.
 
+### Install
+-Set up Github Actions
+-Set up linter > Lighthouse , Webhint ,Stylelint ,
+-Added Eslint
+
+### Run tests
+
+Then open your favourite code editor (Optional VSCode), and use the live server extension to see your changes result.
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Github flow knowledge.
+- Basic CSS and HTML.
+- Installation of files.
+- Javasript arrays, objects and classes.
 
 ### Setup
+-To clone the repository run `git@github.com:danigalindo10/awesome-books.git` in your terminal
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+-Set up Github Actions
+-Set up linter > Lighthouse, Webhint, Stylelint.
+-Added Eslint
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Daniel Galindo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@danigalindo10](https://github.com/danigalindo10)
+- Twitter: [@codedanig](https://twitter.com/codedanig)
+- LinkedIn: [Daniel Galindo](https://www.linkedin.com/in/daniel-galindo-31b922236/)
 
-👤 **Author2**
+👤 **Natasha Chirombe**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+- Twitter: [@NatashaChirombe]
+- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Feel free to check the [issues page](https://github.com/danigalindo10/awesome-books/issues)
 
 ## 📝 License
 
