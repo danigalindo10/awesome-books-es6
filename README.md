@@ -19,8 +19,7 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 
 -Set up Github Actions
--Set up linter > Lighthouse, Webhint, Stylelint.
--Added Eslint
+-Set up linter > Stylelint and Eslint.
 
 ### Run tests
 

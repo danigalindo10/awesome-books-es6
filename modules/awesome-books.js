@@ -1,4 +1,5 @@
-import Store from './store';
+/* eslint-disable import/extensions */
+import Store from './store.js';
 
 class awesomeBooks {
   static displayBooks() {
@@ -30,8 +31,7 @@ class awesomeBooks {
   }
 
   static clearField() {
-    document.querySelector('#title').value = '';
-    document.querySelector('#author').value = '';
+    document.getElementById('new-book').reset();
   }
 }
 

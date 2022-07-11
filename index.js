@@ -1,10 +1,11 @@
-import Store from './modules/store';
-import awesomeBooks from './modules/awesome-books';
-import Book from './modules/book';
-// import { DateTime } from './node_modules/luxon/src/luxon.js';
+/* eslint-disable import/extensions */
+import Store from './modules/store.js';
+import awesomeBooks from './modules/awesome-books.js';
+import Book from './modules/book.js';
+import { DateTime } from './node_modules/luxon/src/luxon.js';
 
 // SET CURRENT TIME
-// document.getElementById('date').innerHTML = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
+document.getElementById('date').innerHTML = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
 
 // Event: Display Books
 document.addEventListener('DOMContentLoaded', awesomeBooks.displayBooks);
@@ -42,7 +43,7 @@ document.querySelector('#all-books').addEventListener('click', (e) => {
 const d = new Date();
 document.getElementById('date').innerHTML = d;
 
-// Activate and desactivate sections
+// Activate and deactivate sections
 
 const allBooksSection = document.getElementById('book-library');
 const addNewBookSection = document.getElementById('add-new-book');
