@@ -39,9 +39,7 @@ To clone the repository run `git@github.com:danigalindo10/awesome-books-es6.git`
 
 ### Install
 -Set up Github Actions
--Set up linter > Lighthouse, Webhint, Stylelint.
--Added Eslint
-
+-Set up linter > Stylelint and Eslint
 
 ## Authors
 
@@ -50,12 +48,6 @@ To clone the repository run `git@github.com:danigalindo10/awesome-books-es6.git`
 - GitHub: [@danigalindo10](https://github.com/danigalindo10)
 - Twitter: [@codedanig](https://twitter.com/codedanig)
 - LinkedIn: [Daniel Galindo](https://www.linkedin.com/in/daniel-galindo-31b922236/)
-
-👤 **Natasha Chirombe**
-
-- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
-- Twitter: [@NatashaChirombe]
-- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
 
 ## 🤝 Contributing
 
