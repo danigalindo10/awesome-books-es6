@@ -1,10 +1,10 @@
-import Store from './modules/store.js';
-import awesomeBooks from './modules/awesome-books.js';
-import Book from './modules/book.js';
-import { DateTime } from './node_modules/luxon/src/luxon.js';
+import Store from './modules/store';
+import awesomeBooks from './modules/awesome-books';
+import Book from './modules/book';
+// import { DateTime } from './node_modules/luxon/src/luxon.js';
 
 // SET CURRENT TIME
-document.getElementById('date').innerHTML = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
+// document.getElementById('date').innerHTML = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
 
 // Event: Display Books
 document.addEventListener('DOMContentLoaded', awesomeBooks.displayBooks);
